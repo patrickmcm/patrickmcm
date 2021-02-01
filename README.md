@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Discord: Peanut#1120
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Peanut1120&count_private=true&show_icons=true&theme=radical" />
 </a>
