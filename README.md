@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on discord obfuscation tools bot
-- 🌱 I’m currently learning node.js
-- 🤔 I’m looking for help with node.js
+- 🌱 I’m currently learning node.js / javascript 
+- 🤔 I’m looking for help with node.js / javascript
 - 📫 How to reach me: Discord: Peanut#1120
 
 
