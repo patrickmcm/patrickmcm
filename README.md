@@ -2,9 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=peanut1120)
 
-- 🔭 I’m currently working on discord obfuscation tools bot
-- 🌱 I’m currently learning node.js / javascript 
-- 🤔 I’m looking for help with node.js / javascript
+- 🔭 I’m currently working on my verification system
+- 🌱 I’m currently learning javascript 
 - 📫 How to reach me: Discord: Peanut#1120
 
 
