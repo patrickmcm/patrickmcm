@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=peanut1120)
+
 - 🔭 I’m currently working on discord obfuscation tools bot
 - 🌱 I’m currently learning node.js / javascript 
 - 🤔 I’m looking for help with node.js / javascript
