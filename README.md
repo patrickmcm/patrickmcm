@@ -2,8 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=peanut1120)
 
-- 🌱 I’m currently studying Computer Science and Mathematics at college 
-- 📫 How to reach me: Discord: Peanut#1120
+- 🌱 I’m currently studying Computer Science, Mathematics and Chemistry
 
 
 <a>
